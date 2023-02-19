@@ -1,0 +1,15 @@
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\bin\Debug\net6.0\FinalTaskMarketSimulation.exe
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\bin\Debug\net6.0\FinalTaskMarketSimulation.deps.json
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\bin\Debug\net6.0\FinalTaskMarketSimulation.runtimeconfig.json
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\bin\Debug\net6.0\FinalTaskMarketSimulation.dll
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\bin\Debug\net6.0\FinalTaskMarketSimulation.pdb
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\obj\Debug\net6.0\FinalTaskMarketSimulation.csproj.AssemblyReference.cache
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\obj\Debug\net6.0\FinalTaskMarketSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\obj\Debug\net6.0\FinalTaskMarketSimulation.AssemblyInfoInputs.cache
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\obj\Debug\net6.0\FinalTaskMarketSimulation.AssemblyInfo.cs
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\obj\Debug\net6.0\FinalTaskMarketSimulation.csproj.CoreCompileInputs.cache
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\obj\Debug\net6.0\FinalTaskMarketSimulation.dll
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\obj\Debug\net6.0\refint\FinalTaskMarketSimulation.dll
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\obj\Debug\net6.0\FinalTaskMarketSimulation.pdb
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\obj\Debug\net6.0\FinalTaskMarketSimulation.genruntimeconfig.cache
+C:\Users\memme\source\repos\FinalTaskMarketSimulation\FinalTaskMarketSimulation\obj\Debug\net6.0\ref\FinalTaskMarketSimulation.dll
